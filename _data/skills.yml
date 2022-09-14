@@ -1,2 +1,8 @@
-- skill: Organizational No Lead
-  description: I do not lead any organization
+- skill: Swift
+  description: I develop iOS application and frameworks using Swift. My favourite part is its Optional.
+- skill: Objective-C
+  description: Incorporate Objective-C as side language to Swift. I use it to interact with C++ using Objective-C++.
+- skill: Rust
+  description: A novice to this programming language. Ownership and borrowing is cool until you have to deal with non-Copy types.
+- skill: Kotlin
+  description: A cousin to Swift. I still learn. I don't use it yet in any project. Nevertheless, it's a skill.
